@@ -7,7 +7,7 @@
 **User Role**: All Users  
 **Complexity**: Simple  
 
-**Purpose**: This flow allows users to "pin" important or frequently-used chat conversations to keep them easily accessible at the top of their chat list. Pinned chats appear in a dedicated "Pinned" section, separate from date-organized chats, making them quick to find regardless of when they were last used.
+**Purpose**: This flow allows users to "pin" or "star" important or frequently-used chat conversations to keep them easily accessible at the top of their chat list. Pinned chats appear in a dedicated "Pinned" section, separate from date-organized chats, making them quick to find regardless of when they were last used.
 
 ---
 
@@ -93,7 +93,7 @@ Mark a chat conversation as favorite/important so it remains easily accessible a
 **Final Step - Chat Pinned**
 - **Success Indicator**: 
   - Chat appears in "Pinned" section at top of list
-  - Star icon is filled/solid
+  - Star icon is filled/solid gold
   - Chat is easily accessible
 - **System State Change**: 
   - Chat marked as pinned in database
