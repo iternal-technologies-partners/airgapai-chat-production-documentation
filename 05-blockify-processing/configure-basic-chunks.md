@@ -43,7 +43,7 @@ Set optimal chunk size and overlap to balance search precision, processing speed
 
 ## Step-by-Step Flow
 
-### Main Path (Happy Path)
+### Main Path
 
 **Step 1: Locate Chunk Settings**
 - **User Action**: On job creation screen, find chunk settings section (typically after file upload)

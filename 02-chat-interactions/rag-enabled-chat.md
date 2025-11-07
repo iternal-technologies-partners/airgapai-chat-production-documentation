@@ -60,7 +60,7 @@ Ask questions that are answered using information specifically from the user's u
 
 ## Step-by-Step Flow
 
-### Main Path (Happy Path)
+### Main Path
 
 **Step 1: Verify Dataset is Configured**
 - **User Action**: Before starting a chat, verify that a dataset is available and active

@@ -55,7 +55,7 @@ Start a new, blank conversation with the AI to ask questions, get information, o
 
 ## Step-by-Step Flow
 
-### Main Path (Happy Path)
+### Main Path
 
 **Step 1: Navigate to Chat Page**
 - **User Action**: Click "Chat" in the main navigation menu

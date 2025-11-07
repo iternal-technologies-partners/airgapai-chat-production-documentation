@@ -54,7 +54,7 @@ Preview exact chunking results for each file to verify settings produce good chu
 
 ## Step-by-Step Flow
 
-### Main Path (Happy Path)
+### Main Path
 
 **Step 1: Access Advanced Preview**
 - **User Action**: On job creation screen, click "Show Advanced Settings" or "Preview Chunks" button

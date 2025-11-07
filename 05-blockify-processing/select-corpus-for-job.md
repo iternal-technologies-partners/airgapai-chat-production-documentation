@@ -42,7 +42,7 @@ Select appropriate dataset destination for job results - either creating new dat
 
 ## Step-by-Step Flow
 
-### Main Path - Create New Dataset (Happy Path)
+### Main Path - Create New Dataset
 
 **Step 1: Locate Dataset Selector**
 - **User Action**: On job creation form, find "Target Dataset" or "Select Dataset" dropdown

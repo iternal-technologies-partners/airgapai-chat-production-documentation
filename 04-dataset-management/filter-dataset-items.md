@@ -43,7 +43,7 @@ Quickly locate specific information within large dataset by filtering items matc
 
 ## Step-by-Step Flow
 
-### Main Path (Happy Path)
+### Main Path
 
 **Step 1: Locate Search Box**
 - **User Action**: On dataset details page, find search/filter input box

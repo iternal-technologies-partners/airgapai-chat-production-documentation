@@ -36,7 +36,7 @@ Track job processing in real-time to know when it will complete and verify it's 
 
 ## Step-by-Step Flow
 
-### Main Path (Happy Path)
+### Main Path
 
 **Step 1: Open Job Details**
 - **User Action**: Navigate to job details page (from status badge, jobs list, or direct link)

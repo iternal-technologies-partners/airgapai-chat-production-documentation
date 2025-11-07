@@ -59,7 +59,7 @@ Import a structured dataset file into the application so it can be used for AI-p
 
 ## Step-by-Step Flow
 
-### Main Path (Happy Path)
+### Main Path
 
 **Step 1: Navigate to Settings or Datasets**
 - **User Action**: Click "Settings" in navigation, OR click "Datasets" if available as separate navigation item

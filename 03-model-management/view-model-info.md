@@ -43,7 +43,7 @@ View comprehensive information about a model to understand its specifications an
 
 ## Step-by-Step Flow
 
-### Main Path (Happy Path)
+### Main Path
 
 **Step 1: Navigate to Models List**
 - **User Action**: Go to Settings > Chat AI Models or Models tab

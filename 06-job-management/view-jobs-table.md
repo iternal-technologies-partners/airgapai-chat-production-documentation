@@ -43,7 +43,7 @@ View complete list of all jobs to understand processing history, find specific j
 
 ## Step-by-Step Flow
 
-### Main Path (Happy Path)
+### Main Path
 
 **Step 1: Navigate to Jobs Table**
 - **User Action**: Click "Blockify" in navigation, then click "View Jobs" tab

@@ -43,7 +43,7 @@ View all available datasets to understand what knowledge bases exist and their s
 
 ## Step-by-Step Flow
 
-### Main Path (Happy Path)
+### Main Path
 
 **Step 1: Navigate to Datasets**
 - **User Action**: Click "Settings" then Datasets-related tab, OR "Datasets" in navigation

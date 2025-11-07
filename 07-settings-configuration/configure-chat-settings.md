@@ -47,7 +47,7 @@ Customize global AI behavior settings to achieve desired response characteristic
 
 ## Step-by-Step Flow
 
-### Main Path (Happy Path)
+### Main Path
 
 **Step 1: Navigate to Settings**
 - **User Action**: Click "Settings" in navigation

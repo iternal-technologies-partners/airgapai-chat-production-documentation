@@ -54,7 +54,7 @@ Mark a chat conversation as favorite/important so it remains easily accessible a
 
 ## Step-by-Step Flow
 
-### Main Path - Pin a Chat (Happy Path)
+### Main Path - Pin a Chat
 
 **Step 1: Navigate to Chat Page**
 - **User Action**: Click "Chat" in navigation menu

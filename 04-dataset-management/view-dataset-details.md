@@ -58,7 +58,7 @@ Browse and examine the complete contents of a dataset to understand what informa
 
 ## Step-by-Step Flow
 
-### Main Path (Happy Path)
+### Main Path
 
 **Step 1: Navigate to Datasets**
 - **User Action**: Click "Settings" then navigate to a datasets-related tab, OR click "Datasets" in navigation if available

@@ -53,7 +53,7 @@ Upload document files to the job so they can be processed, structured, and made 
 
 ## Step-by-Step Flow
 
-### Main Path (Happy Path)
+### Main Path
 
 **Step 1: Locate File Upload Area**
 - **User Action**: On blockify job creation screen, find the file upload section

@@ -46,7 +46,7 @@ Remove unwanted model to free space or organize model library.
 
 ## Step-by-Step Flow
 
-### Main Path (Happy Path)
+### Main Path
 
 **Step 1: Navigate to Models List**
 - **User Action**: Settings > Chat AI Models or Models tab

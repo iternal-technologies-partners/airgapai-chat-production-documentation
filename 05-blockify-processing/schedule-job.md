@@ -39,7 +39,7 @@ Set future start time for job to optimize resource usage or coordinate with user
 
 ## Step-by-Step Flow
 
-### Main Path (Happy Path)
+### Main Path
 
 **Step 1: Configure Job Normally**
 - **User Action**: Complete normal job setup (files, settings, etc.)

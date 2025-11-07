@@ -48,7 +48,7 @@ Immediately stop a running job to prevent further processing and free up system 
 
 ## Step-by-Step Flow
 
-### Main Path (Happy Path)
+### Main Path
 
 **Step 1: Access Running Job**
 - **User Action**: Navigate to job details (click status badge, or go to Jobs list and click job)

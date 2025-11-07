@@ -47,7 +47,7 @@ Set optimal context window size balancing conversation memory with response spee
 
 ## Step-by-Step Flow
 
-### Main Path (Happy Path)
+### Main Path
 
 **Step 1: Navigate to Chat Options**
 - **User Action**: Settings > Chat Options tab

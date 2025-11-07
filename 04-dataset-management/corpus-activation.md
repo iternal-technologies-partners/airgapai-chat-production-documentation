@@ -54,7 +54,7 @@ Select which dataset will be queried during AI conversations when the dataset qu
 
 ## Step-by-Step Flow
 
-### Main Path - Activate a Dataset (Happy Path)
+### Main Path - Activate a Dataset
 
 **Step 1: Navigate to Settings or Datasets**
 - **User Action**: Click "Settings" in navigation OR "Datasets" if available

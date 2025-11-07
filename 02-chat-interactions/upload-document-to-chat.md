@@ -44,7 +44,7 @@ Include document content in chat message for AI to reference, analyze, or discus
 
 ## Step-by-Step Flow
 
-### Main Path (Happy Path)
+### Main Path
 
 **Step 1: Locate Upload Button**
 - **User Action**: In chat input area, find paperclip or upload icon

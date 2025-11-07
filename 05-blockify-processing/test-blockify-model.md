@@ -49,7 +49,7 @@ Verify blockify model works correctly and understand its output format before ru
 
 ## Step-by-Step Flow
 
-### Main Path (Happy Path)
+### Main Path
 
 **Step 1: Access Test Interface**
 - **User Action**: On Blockify page, find "Test Model" or similar option (may be tab or separate screen)

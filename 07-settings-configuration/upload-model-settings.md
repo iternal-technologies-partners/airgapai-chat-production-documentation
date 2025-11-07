@@ -35,7 +35,7 @@ Add new AI model to application through Settings interface (standard upload loca
 
 ## Step-by-Step Flow
 
-### Main Path (Happy Path)
+### Main Path
 
 **Step 1: Navigate to Settings**
 - **User Action**: Click "Settings" in navigation

@@ -34,7 +34,7 @@ Add new dataset to application through Settings page interface.
 
 ## Step-by-Step Flow
 
-### Main Path (Happy Path)
+### Main Path
 
 **Step 1: Navigate to Datasets in Settings**
 - **User Action**: Settings > navigate to Datasets-related section

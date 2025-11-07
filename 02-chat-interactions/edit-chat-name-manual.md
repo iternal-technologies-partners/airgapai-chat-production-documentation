@@ -52,7 +52,7 @@ Assign a descriptive, memorable name to a chat conversation for easier identific
 
 ## Step-by-Step Flow
 
-### Main Path (Happy Path)
+### Main Path
 
 **Step 1: Access Edit Name Function**
 - **User Action**: In chat header, click edit icon (pencil) next to chat name OR click chat name itself

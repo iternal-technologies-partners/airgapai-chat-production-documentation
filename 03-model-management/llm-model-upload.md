@@ -54,7 +54,7 @@ Upload and make available a new AI language model for conducting chat conversati
 
 ## Step-by-Step Flow
 
-### Main Path (Happy Path)
+### Main Path
 
 **Step 1: Navigate to Settings**
 - **User Action**: From any page in the application, click the "Settings" menu item in the navigation

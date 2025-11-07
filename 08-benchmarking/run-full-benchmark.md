@@ -62,7 +62,7 @@ Measure and document how well AI models perform on the current hardware to make 
 
 ## Step-by-Step Flow
 
-### Main Path (Happy Path)
+### Main Path
 
 **Step 1: Navigate to Benchmarking Section**
 - **User Action**: Click "Settings" in navigation, then click "Benchmarking" tab

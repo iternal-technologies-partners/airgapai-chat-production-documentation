@@ -52,7 +52,7 @@ Get started with the application quickly by understanding essential features and
 
 ## Step-by-Step Flow
 
-### Main Path (Happy Path)
+### Main Path
 
 **Step 1: Application First Launch**
 - **User Action**: Launch application for first time

@@ -57,7 +57,7 @@ Download complete dataset file to local storage for backup, sharing, or transfer
 
 ## Step-by-Step Flow
 
-### Main Path (Happy Path)
+### Main Path
 
 **Step 1: Navigate to Dataset Details**
 - **User Action**: Navigate to Datasets page, click "View" on desired dataset

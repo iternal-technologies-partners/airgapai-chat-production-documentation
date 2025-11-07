@@ -44,7 +44,7 @@ Export conversation as professionally formatted PDF for sharing, printing, or ar
 
 ## Step-by-Step Flow
 
-### Main Path (Happy Path)
+### Main Path
 
 **Step 1: Access Actions Menu**
 - **User Action**: Click actions menu (three dots) in chat header

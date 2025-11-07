@@ -34,7 +34,7 @@ Automate chat creation with preferred template to avoid selecting it manually ea
 
 ## Step-by-Step Flow
 
-### Main Path (Happy Path)
+### Main Path
 
 **Step 1: Navigate to Admin Overrides**
 - **User Action**: Settings > Admin Overrides tab

@@ -43,7 +43,7 @@ Optimize system-wide performance by configuring worker counts and default templa
 
 ## Step-by-Step Flow
 
-### Main Path (Happy Path)
+### Main Path
 
 **Step 1: Navigate to Admin Overrides**
 - **User Action**: Settings > Admin Overrides tab

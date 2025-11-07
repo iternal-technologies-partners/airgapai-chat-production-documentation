@@ -43,7 +43,7 @@ Select preferred visual style for chat interface that matches personal aesthetic
 
 ## Step-by-Step Flow
 
-### Main Path (Happy Path)
+### Main Path
 
 **Step 1: Style Selection Step Loads**
 - **User Action**: Arrive at chat style selection step

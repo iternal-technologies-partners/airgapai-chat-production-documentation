@@ -58,7 +58,7 @@ Continue an existing conversation with the AI while maintaining context from pre
 
 ## Step-by-Step Flow
 
-### Main Path (Happy Path)
+### Main Path
 
 **Step 1: Review Previous AI Response**
 - **User Action**: Read and process the AI's latest response in the conversation

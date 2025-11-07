@@ -35,7 +35,7 @@ Quickly filter jobs list to show only jobs in desired state for targeted review 
 
 ## Step-by-Step Flow
 
-### Main Path (Happy Path)
+### Main Path
 
 **Step 1: Open Jobs Table**
 - **User Action**: Navigate to Blockify > View Jobs

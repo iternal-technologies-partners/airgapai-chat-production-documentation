@@ -43,7 +43,7 @@ Select appropriate embedding model for generating vectors that enable semantic s
 
 ## Step-by-Step Flow
 
-### Main Path A - New Dataset (Happy Path)
+### Main Path A - New Dataset
 
 **Step 1: Locate Embedding Model Selector**
 - **User Action**: On job creation form with "Create New Dataset" selected, find embedding model dropdown

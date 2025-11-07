@@ -51,7 +51,7 @@ Maintain awareness of background job status without needing to actively check or
 
 ## Step-by-Step Flow
 
-### Main Path (Happy Path)
+### Main Path
 
 **Step 1: Job Processing Begins**
 - **User Action**: None required (system-initiated)

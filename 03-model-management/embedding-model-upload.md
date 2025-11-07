@@ -46,7 +46,7 @@ Add embedding model to enable dataset search and document processing capabilitie
 
 ## Step-by-Step Flow
 
-### Main Path (Happy Path)
+### Main Path
 
 **Step 1: Navigate to Settings**
 - **User Action**: Click "Settings" in navigation

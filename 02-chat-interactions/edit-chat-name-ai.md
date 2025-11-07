@@ -54,7 +54,7 @@ Automatically generate a descriptive, accurate name for the chat conversation us
 
 ## Step-by-Step Flow
 
-### Main Path (Happy Path)
+### Main Path
 
 **Step 1: Access Edit Name Function**
 - **User Action**: Click edit icon (pencil) next to chat name in header

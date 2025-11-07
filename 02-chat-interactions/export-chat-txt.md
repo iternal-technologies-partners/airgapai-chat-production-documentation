@@ -56,7 +56,7 @@ Export the conversation to a text file for external storage, sharing, or archiva
 
 ## Step-by-Step Flow
 
-### Main Path (Happy Path)
+### Main Path
 
 **Step 1: Open Chat to Export**
 - **User Action**: Navigate to the chat conversation you want to export

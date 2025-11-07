@@ -55,7 +55,7 @@ Permanently remove a chat conversation from the system to clean up the interface
 
 ## Step-by-Step Flow
 
-### Main Path (Happy Path)
+### Main Path
 
 **Step 1: Open Chat to Delete**
 - **User Action**: Navigate to and open the chat conversation you want to delete

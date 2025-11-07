@@ -58,7 +58,7 @@ View comprehensive details about a processing job to understand its status, moni
 
 ## Step-by-Step Flow
 
-### Main Path (Happy Path)
+### Main Path
 
 **Step 1: Access Job from Multiple Entry Points**
 - **User Action**: Navigate to job details via one of several methods:

@@ -35,7 +35,7 @@ Visualize job performance data through various chart types to understand process
 
 ## Step-by-Step Flow
 
-### Main Path (Happy Path)
+### Main Path
 
 **Step 1: Access Charts Section**
 - **User Action**: On job details page, ensure "Charts" tab is selected (vs. "IdeaBlocks" tab)

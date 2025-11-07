@@ -35,7 +35,7 @@ Understand model performance through completed benchmark results to make informe
 
 ## Step-by-Step Flow
 
-### Main Path (Happy Path)
+### Main Path
 
 **Step 1: Navigate to Benchmarking**
 - **User Action**: Settings > Benchmarking tab

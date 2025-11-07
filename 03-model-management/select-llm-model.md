@@ -57,7 +57,7 @@ Switch to a different AI language model to use for chat conversations, ensuring 
 
 ## Step-by-Step Flow
 
-### Main Path (Happy Path)
+### Main Path
 
 **Step 1: Navigate to Settings**
 - **User Action**: Click "Settings" in the main navigation menu

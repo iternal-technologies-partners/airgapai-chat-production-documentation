@@ -59,7 +59,7 @@ Configure AI behavior by creating and managing multiple personas with different 
 
 ## Step-by-Step Flow
 
-### Main Path (Happy Path)
+### Main Path
 
 **Step 1: Open Active Chat**
 - **User Action**: Navigate to or create a chat conversation

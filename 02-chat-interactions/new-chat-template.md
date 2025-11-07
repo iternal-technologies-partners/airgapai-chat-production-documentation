@@ -45,7 +45,7 @@ Start a conversation pre-configured for a specific task or workflow using a temp
 
 ## Step-by-Step Flow
 
-### Main Path (Happy Path)
+### Main Path
 
 **Step 1: Navigate to New Chat**
 - **User Action**: Click "Chat" in navigation (if no chat open) OR click "New Chat" button

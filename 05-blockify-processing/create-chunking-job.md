@@ -45,7 +45,7 @@ Process documents into simple, evenly-sized chunks for dataset creation without 
 
 ## Step-by-Step Flow
 
-### Main Path (Happy Path)
+### Main Path
 
 **Step 1: Navigate to Blockify Page**
 - **User Action**: Click "Blockify" in navigation

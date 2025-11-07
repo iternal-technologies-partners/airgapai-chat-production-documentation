@@ -43,7 +43,7 @@ Restart failed job to successfully complete the processing after resolving issue
 
 ## Step-by-Step Flow
 
-### Main Path (Happy Path)
+### Main Path
 
 **Step 1: Locate Failed Job**
 - **User Action**: Navigate to Jobs list (Blockify > View Jobs tab) or job details

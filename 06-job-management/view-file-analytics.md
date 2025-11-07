@@ -35,7 +35,7 @@ Analyze individual file's processing performance and results separately from oth
 
 ## Step-by-Step Flow
 
-### Main Path (Happy Path)
+### Main Path
 
 **Step 1: Open Job Details**
 - **User Action**: Navigate to job details dashboard

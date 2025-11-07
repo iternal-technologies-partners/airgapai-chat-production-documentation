@@ -34,7 +34,7 @@ Complete benchmark testing without re-running already completed tests, saving ti
 
 ## Step-by-Step Flow
 
-### Main Path (Happy Path)
+### Main Path
 
 **Step 1: Navigate to Benchmarking**
 - **User Action**: Settings > Benchmarking tab

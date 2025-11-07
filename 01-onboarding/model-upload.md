@@ -50,7 +50,7 @@ Upload first AI model as part of initial setup to enable core chat functionality
 
 ## Step-by-Step Flow
 
-### Main Path (Happy Path)
+### Main Path
 
 **Step 1: Model Upload Step Appears**
 - **User Action**: Arrive at model upload step in onboarding
