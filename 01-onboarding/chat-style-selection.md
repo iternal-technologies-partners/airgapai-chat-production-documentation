@@ -1,4 +1,4 @@
-# Select LLM Chat Style During Onboarding
+# Select Chat Style During Onboarding
 
 ## Overview
 **Flow ID**: `onboarding-chat-style`  
